@@ -2,5 +2,9 @@ RENCANA TERBARU
 
 CSS 
  - Cover
+   - warna
+   - gradasi
 HTML
  - Video
+   - suara
+PHP
