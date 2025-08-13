@@ -2,5 +2,8 @@ RENCANA TERBARU
 
 CSS 
  - Cover
+   - warna
 HTML
  - Video
+   - suara
+PHP
